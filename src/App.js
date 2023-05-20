@@ -4,7 +4,7 @@ import Resturant from './Restaurant_thapa_git/Resturant';
 const App = () => {
   return (
     <>
-   <Resturant/>
+   <Resturant></Resturant>
     </>
   );
 }
